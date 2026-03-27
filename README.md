@@ -1,4 +1,4 @@
-# Full-Stack Real-Time Chat App
+# ChatNexus: Full Stack Real Time Chat App
 
 A complete, production-ready real-time mobile chat application built with React Native (Expo), Node.js, Socket.io, and Prisma.
 
